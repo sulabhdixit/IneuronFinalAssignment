@@ -1,0 +1,25 @@
+
+		   Constructor Key Points :-
+		  
+		   1) Constructor have same name as class name. 
+		   
+		   2)Constructor parameter will work like method parameter. 
+		   
+		   3) It is called when object is created or when object is instantiated. 
+		   
+		   4) Inside constructor return statement is valid.
+		   
+		   5) Constructor will not have return type explicitly. 
+		   
+		   6) Inside Constructor first statement is super() method or this() method. 
+		   
+		   7) Super() method calls parent class constructor. 
+		   
+		   8) this() method calls constructor of same class. 
+		   
+		   9) Inside constructor only one method is allowed super() or this() method. 
+		   
+		   10) We can't write this() or super() method apart from first statement in constructor body. 
+		   
+		   11) We can have more than one constructor with different parameters in a class called as constructor overloading.
+		 
